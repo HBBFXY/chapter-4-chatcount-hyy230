@@ -1,5 +1,4 @@
 s = input("请输入一行字符：")
-
 letters = 0
 digits = 0
 spaces = 0
